@@ -1,0 +1,52 @@
+{
+    "listings": [
+        {
+            "name": "To Kill a Mockingbird",
+            "price": "$50"
+        },
+        {
+            "name": "War and Peace",
+            "price": "$30"
+        },
+        {
+            "name": "The Great Gatsby",
+            "price": "$40"
+        },
+        {
+            "name": "The Adventures of Huckleberry Finn",
+            "price": "$37"
+        },
+        {
+            "name": "In Search of Lost Time",
+            "price": "$70"
+        },
+        {
+            "name": "Don Quixote",
+            "price": "$60"
+        },
+        {
+            "name": "Think and Grow Rich",
+            "price": "$100"
+        },
+        {
+            "name": "As a Man Thinketh",
+            "price": "$25"
+        },
+        {
+            "name": "Choose Yourself",
+            "price": "$64"
+        },
+        {
+            "name": "The Four Agreements",
+            "price": "$49"
+        },
+        {
+            "name": "The Alchemist",
+            "price": "$80"
+        },
+        {
+            "name": "The Power of Positive Thinking",
+            "price": "$15"
+        }
+    ]
+}
